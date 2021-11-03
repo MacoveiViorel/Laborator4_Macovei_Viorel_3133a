@@ -1,0 +1,13 @@
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\bin\Debug\Laborator4_Macovei_Viorel.exe.config
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\bin\Debug\Laborator4_Macovei_Viorel.exe
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\bin\Debug\Laborator4_Macovei_Viorel.pdb
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\bin\Debug\OpenTK.dll
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\bin\Debug\OpenTK.GLControl.dll
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\bin\Debug\OpenTK.pdb
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\bin\Debug\OpenTK.xml
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\bin\Debug\OpenTK.GLControl.pdb
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\bin\Debug\OpenTK.GLControl.xml
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\obj\Debug\Laborator4_Macovei_Viorel.csproj.AssemblyReference.cache
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\obj\Debug\Laborator4_Macovei_Viorel.csproj.CoreCompileInputs.cache
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\obj\Debug\Laborator4_Macovei_Viorel.exe
+D:\Teme\EGC\Laborator4\Laborator4_Macovei_Viorel\obj\Debug\Laborator4_Macovei_Viorel.pdb
